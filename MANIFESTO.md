@@ -10,4 +10,6 @@
 
 ---
 
-作業中の Issue: https://github.com/bonsai/SANDBOX/issues/281
+## License
+
+MIT

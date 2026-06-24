@@ -120,12 +120,6 @@ data Code = Code
 
 ---
 
-## 関連
-
-- [SANDBOX #281](https://github.com/bonsai/SANDBOX/issues/281) — 元になった Issue
-- [SANDBOX #270](https://github.com/bonsai/SANDBOX/issues/270) — Agent = DB -> DB
-- [SANDBOX #269](https://github.com/bonsai/SANDBOX/issues/269) — データは世界を抽象したものである
-
 ## License
 
 MIT
